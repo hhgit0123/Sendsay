@@ -1,4 +1,3 @@
-# Sendsay  
 Описание задания  
 https://www.notion.so/Frontend-API-75cc5ecc28cd42f4a6f963e2dad88680  
 Макет  
